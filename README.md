@@ -1,4 +1,5 @@
-# Boston-housing-price-with-Pyspark
+# Linear regression in Pyspark with Boston house prices data
+
 Building A Linear Regression for Boston housing price prediction with PySpark and MLlib 
 
 
